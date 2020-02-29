@@ -26,3 +26,32 @@ button:hover {
 
     opacity: 0.9;
 }
+
+
+.locations,
+.amenities {
+    height: 100%;
+    width: 25%;
+    float: left;
+}
+
+.locations {
+    border-right: #DDDDDD solid 1px;
+}
+
+
+.filters h3 {
+    text-align: left;
+    margin: 0;
+    margin-top: 1rem;
+    font-weight: 600;
+    padding-left: 40px;
+}
+
+.filters h4 {
+    text-align: left;
+    margin: 0;
+    font-weight: 400;
+    font-size: 14px;
+    padding-left: 40px;
+}
